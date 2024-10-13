@@ -1,4 +1,5 @@
 # IMDB Trailer Botudur
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/bot.jpg?raw=true)
 
 Funksiyaları bundan ibarətdir:
 
