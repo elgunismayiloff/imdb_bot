@@ -1,11 +1,13 @@
 # IMDB Trailer Botudur
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/bot.jpg?raw=true)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/bot_foto.jpg?raw=true)
 
 Funksiyaları bundan ibarətdir:
 
 IMDB-də olan filmin id-i yazaraq və youtube-dan filmin treyler iframe kodunu köçürüb botumuza yapışdıraraq "Əlavə et" butonuna kliklədikdə artıq hər şey hazır olur.
 
 Bot omdbapi.com saytı ilə işləyir. Bu sayta daxil olaraq özünüzə məxsus apiKey açarı əldə edərək botun kodlarına əlavə edirsiniz.
+
+Yazıçılar, yönətmənlər və kateqoriyalarına kimi əldə edib bazaya əlavə edir.
 
  Bu skript, IMDB-dən film məlumatlarını çəkməyə və bu məlumatları verilənlər bazasına (database) əlavə etməyə imkan tanıyır.
  Skript, PDO (PHP Data Objects) istifadə edərək MySQL verilənlər bazası ilə əlaqə yaradır.
